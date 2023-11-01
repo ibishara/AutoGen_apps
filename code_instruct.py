@@ -13,11 +13,9 @@ local_config_list = [
 gpt_config_list = [
     {
         'model': 'gpt-3.5-turbo', # 'gpt-4',
-        'api_key': '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',
+        'api_key': 'YOUR-API-KEY',
     }
 ]
-
-# openai.api_key = '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'
 
 planner = autogen.AssistantAgent(
     name="planner",
