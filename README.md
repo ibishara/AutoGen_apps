@@ -1,4 +1,4 @@
-### code_instruct
+### 1. code_instruct
 
 - Specializes in coding and instruction tasks
 - Use LM Studio for model management and server
