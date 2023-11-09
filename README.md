@@ -1,5 +1,6 @@
 ### code_instruct
 
-- Specializes in coding and instruction tasks
-- Use LM Studio for model management and server
-- Assistant agent is open-source model. Other agents are GPTs. 
+- Specializes in coding and instruction with focus on machine learning tasks. 
+- Use LM Studio for local model management and server
+- Agents can use local LLM or OpenAI GPT models 
+- External knowledge can be provided to the conversation using the RAG agent.
